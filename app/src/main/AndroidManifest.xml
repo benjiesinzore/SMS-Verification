@@ -12,7 +12,9 @@
     <receiver
         android:name=".SmsBroadcastReceiver"
         android:enabled="true"
-        android:exported="true"></receiver>
+        android:exported="true">
+
+    </receiver>
 
     <activity android:name=".MainActivity"
         android:exported="true">
